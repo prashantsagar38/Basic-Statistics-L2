@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2ee7567a-788a-4e3e-9634-8dd2e9f6b60e)# Basic-Statistics-L2 - Set 1
+# Basic-Statistics-L2 - Set 1
 _**<p align = "center">Topics: Descriptive Statistics and Probability</p>**_
 
 1. Look at the data given below. Plot the data, find the outliers and find out
