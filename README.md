@@ -1,3 +1,4 @@
 # Basic-Statistics-L2
-
- Topics: Descriptive Statistics and Probability
+<p align = "center">
+Topics: Descriptive Statistics and Probability
+</p>
