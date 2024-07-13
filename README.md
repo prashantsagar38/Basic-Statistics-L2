@@ -174,7 +174,7 @@ Answer the following questions about the total profit of the company in Rupees. 
 <br/>
 A.	Specify a Rupee range (centered on the mean) such that it contains 95% probability for the annual profit of the company.
 <br/>
-$\color{green}{\textsf{Rupee ranges in between [9.9 to 98.1] Crore Rupees, 95\\% of the time for the Annual Profit of the Company.}}$
+Rupee ranges in between [9.9 to 98.1] Crore Rupees, 95\\% of the time for the Annual Profit of the Company.
 <br/>
 B.	Specify the 5th percentile of profit (in Rupees) for the company.
 <br/>
@@ -184,12 +184,6 @@ C.	Which of the two divisions has a larger probability of making a loss in a giv
 <br/>
 The Division #2 (Profit2 ~ N(7, 42) ) has a larger probability of making a loss in a given year
 <br/>
-
-
-
-
-
-
 
 
 
