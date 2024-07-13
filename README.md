@@ -51,16 +51,25 @@ They both are right-skewed, and both have outliers the median can be easily visu
 3.	AT&T was running commercials in 1990 aimed at luring back customers who had switched to one of the other long-distance phone service providers. One such commercial shows a businessman trying to reach Phoenix and mistakenly getting Fiji, where a half-naked native on a beach responds incomprehensibly in Polynesian. When asked about this advertisement, AT&T admitted that the portrayed incident did not actually take place but added that this was an enactment of something that “could happen.” Suppose that one in 200 long-distance telephone calls is misdirected. What is the probability that at least one in five attempted telephone calls reaches the wrong number? (Assume independence of attempts.)
 
 Solution:
+<br/>
 Probability of call misdirect = 1/200 = 0.005
+<br/>
 Probability of no call misdirect = 1-1/200 = 0.995
+<br/>
 The probability for at least one in five attempted telephone calls reaches the wrong number, Number of calls = 5
+<br/>
 n = 5, p=0.005, q=0.995
+<br/>
 P (1) = 1 – Probability that all five calls are not misdirected
+<br/>
          = 1 – (1 – 0.005)^5
+         <br/>
          = 1 – 0.975
+         <br/>
          = 0.0245
-
+<br/>
 Therefore, the probability that at least one in five attempted telephone calls reaches the wrong number is 0.0245.
+<br/>
 
 4.	Returns on a certain business venture, to the nearest $1,000, are known to follow the following probability distribution
    
@@ -73,28 +82,29 @@ Therefore, the probability that at least one in five attempted telephone calls r
 | 2000 |	0.3 |
 | 3000 |	0.1 |
 
-Q) What is the most likely monetary outcome of the business venture?
+i) What is the most likely monetary outcome of the business venture?
 <br/>
-Ans) Most likely monetary outcome is 2000$. This is maximum among all the outcomes.
+Sol) Most likely monetary outcome is 2000$. This is maximum among all the outcomes.
 
-Q) Is the venture likely to be successful? Explain
+ii) Is the venture likely to be successful? Explain
 <br/>
-A) Yes, it will be successful.
+Sol) Yes, it will be successful.
 <br/>
 P(x>0)+ P(x>1000)+ P(x>2000)+ P(x>3000) = 0.2+0.2+0.3+0.1= 0.8.
 <br/>
 This means that the venture has chances to be 80% successful.
 <br/>
 
-Q) What is the long-term average earning of business ventures of this kind? Explain
+iii) What is the long-term average earning of business ventures of this kind? Explain
 <br/>
-A) The long-term average earning expected value= Sum(X*P(X))= 0.8*1000$=800$,
+Sol) The long-term average earning expected value= Sum(X*P(X))= 0.8*1000$=800$,
 <br/>
 Which means on an average the return will be 800$.
 <br/>
-Q) What is the good measure of the risk involved in a venture of this kind? Compute this measure.
+
+iv) What is the good measure of the risk involved in a venture of this kind? Compute this measure.
 <br/>
-The good measure of the risk involved in a venture of this kind depends on the Variability in the distribution.
+Sol) The good measure of the risk involved in a venture of this kind depends on the Variability in the distribution.
 <br/>
 Higher variance means more chances of risk.
 <br/>
