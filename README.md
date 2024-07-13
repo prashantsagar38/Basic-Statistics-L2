@@ -73,16 +73,16 @@ Therefore, the probability that at least one in five attempted telephone calls r
 | 2000 |	0.3 |
 | 3000 |	0.1 |
 
-(i)What is the most likely monetary outcome of the business venture?
+* What is the most likely monetary outcome of the business venture?
 Most likely monetary outcome is 2000$. This is maximum among all the outcomes.
-(ii)Is the venture likely to be successful? Explain
+* Is the venture likely to be successful? Explain
 Yes, it will be successful.
 P(x>0)+ P(x>1000)+ P(x>2000)+ P(x>3000) = 0.2+0.2+0.3+0.1= 0.8.
 This means that the venture has chances to be 80% successful.
-(iii)What is the long-term average earning of business ventures of this kind? Explain
+* What is the long-term average earning of business ventures of this kind? Explain
 The long-term average earning expected value= Sum(X*P(X))= 0.8*1000$=800$,
 Which means on an average the return will be 800$.
-(iv)What is the good measure of the risk involved in a venture of this kind? Compute this measure.
+* What is the good measure of the risk involved in a venture of this kind? Compute this measure.
 The good measure of the risk involved in a venture of this kind depends on the Variability in the distribution.
 Higher variance means more chances of risk.
 Var(X)= E(X^2)-(E(X)^2)= 2800000-(800*800)=2160000.
