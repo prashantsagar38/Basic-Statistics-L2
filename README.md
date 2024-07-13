@@ -31,22 +31,36 @@ A. 91 data point is outlier.
 
 Answer the following three questions based on the box-plot above.
 (i)	What is inter-quartile range of this dataset? (please approximate the numbers) In one line, explain what this value implies.
+<br/>
 UQ=12.5, LQ=5
+<br/>
 IQR = 12-5 = 7
+<br/>
 (ii)	What can we say about the skewness of this dataset?
+<br/>
 Acc to boxplot mean >median. It is positively skewed data since the major tail lies on the right side.
+<br/>
 (iii)	If it was found that the data point with the value 25 is actually 2.5, how would the new box-plot be affected?
+<br/>
 In this case there are no outliers. Under this condition the median will shift from current position to more right side to 7.5. The data will be normally distributed.
+<br/>
 
 3. ![image](https://github.com/user-attachments/assets/6e05196d-7a11-4921-80da-074e4a6d5da0)
 
 Answer the following three questions based on the histogram above.
+<br/>
 (i)	Where would the mode of this dataset lie?
+<br/>
 Mode will appear between 4-8
+<br/>
 (ii)	Comment on the skewness of the dataset.
+<br/>
 Here mean > median. Median is towards the left, positively skewed data.
+<br/>
 (iii)	Suppose that the above histogram and the box-plot in question 2 are plotted for the same dataset. Explain how these graphs complement each other in providing information about any dataset. 
+<br/>
 They both are right-skewed, and both have outliers the median can be easily visualized in box plot where as in histogram mode is more visible.
+<br/>
 
 3.	AT&T was running commercials in 1990 aimed at luring back customers who had switched to one of the other long-distance phone service providers. One such commercial shows a businessman trying to reach Phoenix and mistakenly getting Fiji, where a half-naked native on a beach responds incomprehensibly in Polynesian. When asked about this advertisement, AT&T admitted that the portrayed incident did not actually take place but added that this was an enactment of something that “could happen.” Suppose that one in 200 long-distance telephone calls is misdirected. What is the probability that at least one in five attempted telephone calls reaches the wrong number? (Assume independence of attempts.)
 
