@@ -63,6 +63,7 @@ P (1) = 1 – Probability that all five calls are not misdirected
 Therefore, the probability that at least one in five attempted telephone calls reaches the wrong number is 0.0245.
 
 4.	Returns on a certain business venture, to the nearest $1,000, are known to follow the following probability distribution
+   
 | x |	P(x) |
 | ----- | ----- |
 | -2,000 | 0.1 |
