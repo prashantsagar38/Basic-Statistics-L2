@@ -1,5 +1,5 @@
 # Basic-Statistics-L2
-<p align = "center">Topics: Descriptive Statistics and Probability</p>
+**<p align = "center">Topics: Descriptive Statistics and Probability</p>**
 
 1. Look at the data given below. Plot the data, find the outliers and find out
 
