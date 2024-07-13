@@ -1,4 +1,4 @@
-# Basic-Statistics-L2
+![image](https://github.com/user-attachments/assets/2ee7567a-788a-4e3e-9634-8dd2e9f6b60e)# Basic-Statistics-L2 - Set 1
 _**<p align = "center">Topics: Descriptive Statistics and Probability</p>**_
 
 1. Look at the data given below. Plot the data, find the outliers and find out
@@ -124,6 +124,61 @@ Sol) The good measure of the risk involved in a venture of this kind depends on 
 Higher variance means more chances of risk.
 <br/>
 Var(X)= E(X^2)-(E(X)^2)= 2800000-(800*800)=2160000.
+
+<br/>
+# Basic-Statistics-L2 - Set 2
+
+_**<p align = "center">Topics: Normal distribution, Functions of Random Variables</p>**_
+
+1.	The time required for servicing transmissions is normally distributed with  = 45 minutes and  = 8 minutes. The service manager plans to have work begin on the transmission of a customer’s car 10 minutes after the car is dropped off and the customer is told that the car will be ready within 1 hour from drop-off. What is the probability that the service manager cannot meet his commitment? 
+
+A.	0.3875   
+B.	0.2676   
+C.	0.5   
+D.	0.6987 
+
+Solution: 0.2676
+
+![image](https://github.com/user-attachments/assets/ec3f0a19-2b62-440c-aed5-5c100bc2ace6)
+
+2.	The current age (in years) of 400 clerical employees at an insurance claims processing center is normally distributed with mean  = 38 and Standard deviation  =6. For each statement below, please specify True/False. If false, briefly explain why.
+A.	More employees at the processing center are older than 44 than between 38 and 44.
+B.	A training program for employees under the age of 30 at the center would be expected to attract about 36 employees.
+
+Solution:
+
+![image](https://github.com/user-attachments/assets/c5d1f3b0-6945-4e85-b40e-04cdce6c014e)
+
+3.	If X1 ~ N(μ, σ2) and X2 ~ N(μ, σ2) are iid normal random variables, then what is the difference between 2 X1 and X1 + X2? Discuss both their distributions and parameters.
+
+Solution:  The normal distribution is interconnected with Central Limit Theorem and this states that large sum of independent identically distribution random variables fall under normal distribution then (X1+X2) and (2X1) have normal distribution as per this theory only if X1 and X2 are iid and n is large.
+
+(X1+X2) and 2X1 differ in magnitude they hold of two different sample subsets (X1 & X2) from the same source (population). The distribution remains the same for every sample subset of similar source, it tends to fall under Normal distribution and slight deviations in parameters.
+
+4.	Let X ~ N(100, 202). Find two values, a and b, symmetric about the mean, such that the probability of the random variable taking a value between them is 0.99. 
+
+A.	90.5, 105.9 
+B.	80.2, 119.8 
+C.	22, 78 
+D.	48.5, 151.5 
+E.	90.1, 109.9
+
+Solution: 48.5, 151.5
+
+![image](https://github.com/user-attachments/assets/a0351642-f478-4726-aaf3-a807eb9a7c31)
+
+5.	Consider a company that has two different divisions. The annual profits from the two divisions are independent and have distributions Profit1 ~ N(5, 32) and Profit2 ~ N(7, 42) respectively. Both the profits are in $ Million. Answer the following questions about the total profit of the company in Rupees. Assume that $1 = Rs. 45
+A.	Specify a Rupee range (centered on the mean) such that it contains 95% probability for the annual profit of the company.
+Rupee ranges in between [9.9 to 98.1] Crore Rupees, 95% of the time for the Annual Profit of the Company.
+B.	Specify the 5th percentile of profit (in Rupees) for the company.
+The 5TH Percentile of profit for the company is 17 Crore Rupees
+C.	Which of the two divisions has a larger probability of making a loss in a given year?
+The Division #2 (Profit2 ~ N(7, 42) ) has a larger probability of making a loss in a given year
+
+
+
+
+
 
 
 
