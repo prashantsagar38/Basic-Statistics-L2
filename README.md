@@ -1,4 +1,4 @@
 # Basic-Statistics-L2
 <p align = "center">
-Topics: Descriptive Statistics and Probability
+**_Topics: Descriptive Statistics and Probability_**
 </p>
