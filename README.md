@@ -20,3 +20,11 @@ _**<p align = "center">Topics: Descriptive Statistics and Probability</p>**_
    | Travelers | 39.42% |
    | US Airways | 26.71% |
    | Warner-Lambert | 35.00% |
+
+A. 91 data point is outlier.
+
+![image](https://github.com/user-attachments/assets/ee20f111-9246-414d-be7f-467181bf7de8)
+
+![image](https://github.com/user-attachments/assets/84890a58-98c6-4ecb-8d42-32a6a2a02acc)
+
+
