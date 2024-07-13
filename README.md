@@ -30,6 +30,7 @@ A. 91 data point is outlier.
 2. ![image](https://github.com/user-attachments/assets/21044d4f-058e-45e2-a493-44eb88278a49)
 
 Answer the following three questions based on the box-plot above.
+<br/>
 (i)	What is inter-quartile range of this dataset? (please approximate the numbers) In one line, explain what this value implies.
 <br/>
 UQ=12.5, LQ=5
