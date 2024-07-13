@@ -74,6 +74,7 @@ Therefore, the probability that at least one in five attempted telephone calls r
 | 3000 |	0.1 |
 
 * What is the most likely monetary outcome of the business venture?
+<br/>
 Most likely monetary outcome is 2000$. This is maximum among all the outcomes.
 * Is the venture likely to be successful? Explain
 Yes, it will be successful.
